@@ -1,4 +1,4 @@
-## Navigation bar
+## Navigation Bar
 
 The user navigates the app through a bottom navigation bar. The navigation bar contains icons representing various destinations within the app.
 
