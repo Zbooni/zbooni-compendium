@@ -8,6 +8,6 @@ The Zbooni echo system user guide.
   - [Create Account](apps/iOS/create-account.md)
   - [Account Login](apps/iOS/account-login.md)
   - [Navigation Bar](apps/iOS/navigation-bar.md)
-  - [New Order](apps/iOS/new-order.md)
+  - [Create Order](apps/iOS/create-order.md)
 - [Android App](https://play.google.com/store/apps/details?id=com.zbooni&hl=en&gl=US&pli=1)
 - [Dashboard](https://www.zbooni.com/dashboard/login)
