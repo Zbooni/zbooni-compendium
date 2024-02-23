@@ -12,9 +12,7 @@ Next, the user will be redirected to the **Add Item** screen where they can eith
 
 ![Add Item Screen](../images/screenshots/create-order/03.jpg?raw=true "Add Item")
 
-If the user selects `Create new item` from the **Add Item** screen, they will be redirected to the below screen which allows them to insert the item's details.
-
-![Add Item Screen](../images/screenshots/create-order/04.jpg?raw=true "Add Item")
+If the user selects `Create new item`, they will be redirected to the [Add Item](./add-item.md) screen.
 
 Next, the user will be redirected to the below screen. Here the user can share the order via `WhatsApp`, `QR Code`, `Copy Link`, or they can press `More` to access additional sharing options.
 
