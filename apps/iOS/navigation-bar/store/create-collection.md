@@ -6,4 +6,4 @@ In the `Create collection` screen they will insert the **Name of collection** an
 
 ![Collections Screen](../../images/screenshots/collections/02.jpg?raw=true "Collections")
 
-Next, they will be redirected to the [Add Item](../add-item.md), so they can add items to their collection.
+Next, they will be redirected to the [Add Item](../new-order/add-item.md), so they can add items to their collection.
