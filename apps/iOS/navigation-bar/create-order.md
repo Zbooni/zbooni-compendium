@@ -8,12 +8,8 @@ If the user selects `Add New Customer` from the **Customers** screen, they will 
 
 ![Information Screen](../images/screenshots/create-order/06.jpg?raw=true "Information")
 
-Next, the user will be redirected to the **Add Item** screen where they can either 'Create New Item' or select items from their catalog.
+Next, the user will be redirected to the [Add Item](./add-item.md) screen where they can either 'Create New Item' or select items from their catalog.
 
-![Add Item Screen](../images/screenshots/create-order/03.jpg?raw=true "Add Item")
-
-If the user selects `Create new item`, they will be redirected to the [Add Item](./add-item.md) screen.
-
-Next, the user will be redirected to the below screen. Here the user can share the order via `WhatsApp`, `QR Code`, `Copy Link`, or they can press `More` to access additional sharing options.
+Finally, the user will be redirected to the below screen. Here the user can share the order via `WhatsApp`, `QR Code`, `Copy Link`, or they can press `More` to access additional sharing options.
 
 ![New Order Screen](../images/screenshots/create-order/05.jpg?raw=true "New Order")
